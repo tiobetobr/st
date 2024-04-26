@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "value": "247",
+            "label": "Empresas atendidas",
+            "after": ""
+        },
+        {
+            "value": "350",
+            "label": "Desenvolvimentos completados",
+            "after": "+"
+        },
+        {
+            "value": "12",
+            "label": "Ameaças interrompidas",
+            "after": "M"
+        }
+    ]
+}

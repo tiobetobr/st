@@ -1,0 +1,9 @@
+{
+    "subtitle": "Aprenda com a Intelly",
+    "title": "Novidades, dicas e informações <br /> sobre o universo da tecnologia!",
+    "button": {
+        "label": "Ver mais postagens",
+        "link": "/blog"
+    },
+    "numOfItems": 3
+}

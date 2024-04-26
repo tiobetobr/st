@@ -1,0 +1,9 @@
+{
+    "subtitle": "Conheça mais",
+    "title": "Nossos Serviços",
+    "button": {
+        "label": "Todos os serviços",
+        "link": "/services"
+    },
+    "numOfItems": 5
+}

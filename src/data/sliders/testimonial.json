@@ -1,0 +1,24 @@
+{
+    "title":  "Testemunhos",
+    "rating": {
+        "value": "5.0",
+        "label": "O que nossos clientes dizem"
+    },
+    "items": [
+        {
+            "name": "Angela Umëch",
+            "role": "Contabilidade Umëch",
+            "text": "nossas aplicações estão <br />rodando muito mais rápidas e seguras <br />com a nuvem da INtelly Soluções! <br />Toda comunicação é bem ágil <br />e sem travamentos!"
+        },
+        {
+            "name": "Álvaro Manfra",
+            "role": "Prefeitura de Santos",
+            "text": "A gestão da aplicação de chamados<br /> feita pela equipe da Intelly Soluções<br />nos deu outro significado à <br />Segurança e gestão! Nos sentimos<br />bastante seguros com as soluções!"
+        },
+        {
+            "name": "Dr. Matteo Almeida",
+            "role": "Clínica CardioSyn",
+            "text": "Prestação de serviço de alto nível! <br />Equipe técnica com bastante expertise. <br />São responsáveis por nossos <br />servidores de dados e softwares, <br />tudo funciona muito bem!"
+        }
+    ]
+}

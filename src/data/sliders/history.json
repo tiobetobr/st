@@ -1,0 +1,46 @@
+{
+    "subtitle": "Nossa história",
+    "title": "Acompanhe a nossa jornada que nos trouxe até aqui!",
+    "button": {
+        "label": "Conheça nosso time",
+        "link": "/team"
+    },
+    "items": [
+        {
+            "image": "https://imgur.com/7GV5VFb.jpg",
+            "title": "Fundação da Intelly Soluções Inteligentes.",
+            "subtitle": "2013",
+            "text": "Criada por Diego Beton, a Intelly foi preparada desde o início para se tornar uma compania especializada em desenvolver soluções voltadas ao universo corporativo ."
+        },
+        {
+            "image": "https://i.imgur.com/KqTz2e8.jpg",
+            "subtitle": "2014",
+            "title": "Parceria com a Microsoft Brasil",
+            "text": "Através da certificação Microsoft Partner, realizamos comercialização e suporte de produtos e serviços Microsoft. Neste mesmo ano, recebemos o prêmio MVP Microsft (Most Value Professional)."
+        },
+        {
+            "image": "https://imgur.com/ZEukQx5.jpg",
+            "subtitle": "2015",
+            "title": "Nova sede da Intelly Soluções",
+            "text": "Expansão de nossa infraestrutura. Criação de um novo CPD (centro de processamento de dados) para hospedagem de servidores e novo time de suporte para Help desk e Service Desk."
+        },
+        {
+            "image": "https://imgur.com/xzhxj8N.jpg",
+            "subtitle": "2019",
+            "title": "Expansão de atividades profissionais!",
+            "text": "Neste ano, adquirimos e incorporamos a empresa PHD Tecnologia e nos tornamos pioneiros na atividade de Marketing com o uso das mais recentes tecnologias do mercado para nossos clientes!"
+        },
+        {
+            "image": "https://i.imgur.com/UdtlzZE.jpg",
+            "subtitle": "2024",
+            "title": "América do Norte",
+            "text": "Um ano importante para nossa história. A abertura de uma filial no Canadá nos permite expandir nossas atividades e gerar importantes conexões para garantir os melhores resultados para nossos clientes."
+        },
+        {
+            "image": "https://i.imgur.com/SOgmXjc.jpg",
+            "subtitle": "Presente",
+            "title": "Continuamos a ampliar limites e inspirar!",
+            "text": "Hoje, a Intelly continua a ultrapassar limites e inspirar clientes com a sua visão criativa e dedicação à excelência!"
+        }
+    ]
+}

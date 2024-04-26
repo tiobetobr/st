@@ -1,0 +1,43 @@
+{
+    "project-01": {
+      "bg_image": "https://i.imgur.com/i8vtBAO.jpeg",
+      "yt_video_id": "zQ0U5JKJCdw",
+      "label": "Label para vídeo 01"
+    },
+    "project-02": {
+      "bg_image": "https://i.imgur.com/i8vtBAO.jpeg",
+      "yt_video_id": "zQ0U5JKJCdw",
+      "label": "Label para vídeo 02"
+    },
+    "project-03": {
+      "bg_image": "https://i.imgur.com/i8vtBAO.jpeg",
+      "yt_video_id": "zQ0U5JKJCdw",
+      "label": "Label para vídeo 03"
+    },
+    "project-04": {
+      "bg_image": "https://i.imgur.com/i8vtBAO.jpeg",
+      "yt_video_id": "zQ0U5JKJCdw",
+      "label": "Label para vídeo 04"
+    },
+    "project-05": {
+      "bg_image": "https://i.imgur.com/i8vtBAO.jpeg",
+      "yt_video_id": "zQ0U5JKJCdw",
+      "label": "Label para vídeo 05"
+    },
+    "project-06": {
+      "bg_image": "https://i.imgur.com/i8vtBAO.jpeg",
+      "yt_video_id": "zQ0U5JKJCdw",
+      "label": "Label para vídeo 06"
+    },
+    "project-07": {
+      "bg_image": "https://i.imgur.com/i8vtBAO.jpeg",
+      "yt_video_id": "zQ0U5JKJCdw",
+      "label": "Label para vídeo 07"
+    },
+    "project-08": {
+      "bg_image": "https://i.imgur.com/i8vtBAO.jpeg",
+      "yt_video_id": "zQ0U5JKJCdw",
+      "label": "Label para vídeo 08"
+    }
+  }
+  

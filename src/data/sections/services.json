@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "image": "/images/serv-icon1.png",
+            "title": "Hospedagem",
+            "text": "Hospedagem de servidores dedicados e VPS com backups, redundância e suporte garantido!",
+            "link": "/services/service-6"
+        },
+        {
+            "image": "/images/serv-icon2.png",
+            "title": "Websites",
+            "text": "Desenvolvimento de websites e aplicações web incrívelmente profissionais e responsívas!",
+            "link": "/services/service-7"
+        },
+        {
+            "image": "/images/serv-icon3.png",
+            "title": "Sistemas",
+            "text": "Temos um sistema para cada necessidade! Completos, simples, robustos e funcionais!",
+            "link": "/services/service-8"
+        }
+    ]
+}

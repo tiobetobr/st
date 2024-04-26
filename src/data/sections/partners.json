@@ -1,0 +1,46 @@
+{
+    "subtitle": "crescemos quando nossos clientes crescem!",
+    "title": "Dedicação, parceria e confiança! <br/>Essa é a nossa receita!",
+    "items": [
+        {
+            "link": "https://www.br-automation.com/en/",
+            "label": "Visite o Website",
+            "image": "/images/brand1.png"
+        },
+        {
+            "link": "https://www.manserv.com.br/",
+            "label": "Visite o Website",
+            "image": "/images/brand2.png"
+        },
+        {
+            "link": "https://en.weichai.com/",
+            "label": "Visite o Website",
+            "image": "/images/brand3.png"
+        },
+        {
+            "link": "https://rodovias.grupoccr.com.br/autoban/",
+            "label": "Visite o Website",
+            "image": "/images/brand4.png"
+        },
+        {
+            "link": "https://www.vipcartao.com/",
+            "label": "Visite o Website",
+            "image": "/images/brand5.png"
+        },
+        {
+            "link": "https://www.cameco.com/",
+            "label": "Visite o Website",
+            "image": "/images/brand6.png"
+        },
+        {
+            "link": "https://rumolog.com/",
+            "label": "Visite o Website",
+            "image": "/images/brand7.png"
+        },
+        {
+            "link": "https://www.oec-eng.com/",
+            "label": "Visite o Website",
+            "image": "/images/brand8.png"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "settings": {
+        "siteName": "Intelly Soluções",
+        "preloader": true,
+        "formspreeURL": "https://formspree.io/f/mnqelewb",
+        "portfolio": {
+            "categories": [
+                {
+                    "label": "Marketing",
+                    "slug": "marketing"
+                },
+                {
+                    "label": "Interactive",
+                    "slug": "interactive"
+                },
+                {
+                    "label": "Design",
+                    "slug": "design"
+                },
+                {
+                    "label": "Branding",
+                    "slug": "branding"
+                }
+            ]
+        }
+    },
+    "header": {
+        "logo": {
+            "image": "/images/logo-black.png",
+            "image_white": "/images/logo-main.png",
+            "alt": "logo"
+        },
+        "menu": [
+            {
+                "label": "Serviços",
+                "link": "/services",
+                "children": [
+                    
+                ]
+            },
+            {
+                "label": "Sistemas",
+                "link": "/services/service-8",
+                "children": [
+                    
+                ]
+            },
+            {
+                "label": "Sobre nós",
+                "link": "/about",
+                "children": [
+                    
+                ]
+            },
+            {
+                "label": "Portfólio",
+                "link": "/projects",
+                "children": [
+                    
+                ]
+            },
+            {
+                "label": "Blog",
+                "link": "/blog",
+                "children": [
+                    
+                ]
+            },
+            {
+                "label": "Contato",
+                "link": "/contact",
+                "children": [
+                    
+                ]
+            },
+            {
+                "label": "Dúvidas",
+                "link": "/faq",
+                "children": [
+                    
+                ]
+            }
+        ],
+        "button": {
+            "label": "Abrir Chamado",
+            "link": "http://serverglpi.ddns.net:8888/mapos-master/index.php/mine"
+        },
+        "button2": {
+            "label": "Start a Project",
+            "link": "/contact"
+        }
+    },
+    "footer": {
+        "logo": {
+            "image": "/images/logo-black.png",
+            "alt": "logo"
+        },
+        "gallery": [
+            {
+                "image": "/images/post5-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post4-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post3-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post7-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post1-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post6-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            }
+        ],
+        "copy": "© 2024 Desenvolvido por <a href='https://www.intellysolucoes.com/' target='blank' class='onovo-lnk lnk--white'>Intelly</a>. Todos os direitos reservados."
+    },
+    "social": [
+        {
+            "link": "https://www.facebook.com/IntellySolucoes/",
+            "icon": "fab fa-facebook",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://www.instagram.com/intelly_solucoes/",
+            "icon": "fab fa-instagram",
+            "title": "Instagram"
+        },
+        {
+            "link": "https://api.whatsapp.com/send?l=pt&phone=5564981451795",
+            "icon": "fab fa-whatsapp",
+            "title": "Whatsapp"
+        }
+    ]
+}

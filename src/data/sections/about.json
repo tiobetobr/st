@@ -1,0 +1,22 @@
+{
+    "title": "Eficácia contínua e<br/>inovação presente <br/>em cada detalhe!",
+    "subtitle": "Bem vindo à",
+    "number": {
+        "value": "12",
+        "label": "Anos de experiência e soluções"
+    },
+    "items": [
+        {
+            "title": "Nós fazemos tudo!",
+            "text": "Você precisa de soluções personalizadas? Com certeza podemos te ajudar! Trabalhamos com mais de 100 áreas profissionais,<strong>temos uma vasta experiência com cada uma das necessidades existentes!</strong> Sistemas, servidores, gestão, segurança, redes, firewalls, desenvolvimento e muito mais!"
+        },
+        {
+            "title": "Suporte dedicado",
+            "text": "Atenção que você precisa! Temos planos de suporte em cada um dos produtos e serviços, além de terceirização completa para sua gestão de TI",
+            "button": {
+                "label": "Saiba mais",
+                "link": "/about"
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "subtitle": "Bem vindo ao futuro!",
+    "title": "Garantia e tranquilidade<br>  para  que a sua empresa  <br>produza cada vez mais!",
+    "text": "Conte com a eficiência da gestão empresarial da Intelly Soluções e <strong>desfrute ao máximo do que a tecnologia</strong> pode proporcionar à sua empresa e leve seu negócio para o próximo nível! ",
+    "image": {
+        "url": "/images/onovo-about-logo.png",
+        "alt": "image"
+    },
+    "title2": "O que mais fazemos:",
+    "button": {
+        "link": "/services",
+        "label": "Todos os serviços"
+    },
+    "numOfItems": 5
+}
