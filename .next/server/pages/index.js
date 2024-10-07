@@ -644,7 +644,7 @@ module.exports = JSON.parse('{"title":"Eficácia contínua e<br/>inovação pres
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"title":"Fale com os <br/><strong>ESPECIALISTAS!</strong>","subtitle":"Contato:","text":"<a href=\\"mailto:contato@intellysolucoes.com\\" target=\\"_blank\\">contato@intellysolucoes.com</a><p>Cuide de seu negócio e <br />deixe a tecnologia com a gente!</p>","bg_image":"/images/cta-bg-1.jpg","bg_image2":"/images/cta-circle2.png","social":[{"link":"facebook.com/IntellySolucoes/","icon":"fab fa-facebook-f","title":"Facebook"},{"link":"https://www.instagram.com/intelly_solucoes/","icon":"fab fa-instagram","title":"Instagram"},{"link":"https://api.whatsapp.com/send?l=pt&phone=5564981451795","icon":"fab fa-whatsapp","title":"WhatsApp"},{"link":"https://www.youtube.com/@IntellySolucoesInteligentes","icon":"fab fa-youtube","title":"Youtube"}]}');
+module.exports = JSON.parse('{"title":"Fale com os <br/><strong>ESPECIALISTAS!</strong>","subtitle":"Contato:","text":"<a href=\\"mailto:contato@intellysolucoes.com\\" target=\\"_blank\\">contato@intellysolucoes.com</a><p>Cuide de seu negócio e <br />deixe a tecnologia com a gente!</p>","bg_image":"/images/cta-bg-1.jpg","bg_image2":"/images/cta-circle2.png","social":[{"link":"facebook.com/IntellySolucoes/","icon":"fab fa-facebook-f","title":"Facebook"},{"link":"https://www.instagram.com/intelly_solucoes/","icon":"fab fa-instagram","title":"Instagram"},{"link":"https://api.whatsapp.com/send?l=pt&phone=5564981451795","icon":"fab fa-whatsapp","title":"WhatsApp"},{"link":"https://www.youtube.com/c/IntellySolu%C3%A7%C3%B5esInteligentes/videos","icon":"fab fa-youtube","title":"Youtube"}]}');
 
 /***/ }),
 
